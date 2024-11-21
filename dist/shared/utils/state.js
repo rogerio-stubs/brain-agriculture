@@ -1,0 +1,32 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.STATES = void 0;
+exports.STATES = [
+    "AC",
+    "AL",
+    "AM",
+    "BA",
+    "CE",
+    "ES",
+    "GO",
+    "MA",
+    "MT",
+    "MS",
+    "MG",
+    "PA",
+    "PB",
+    "PR",
+    "PE",
+    "PI",
+    "RJ",
+    "RN",
+    "RS",
+    "RO",
+    "RR",
+    "AP",
+    "SC",
+    "SP",
+    "SE",
+    "TO",
+    "DF",
+];
